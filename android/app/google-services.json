@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53016877866",
+    "project_id": "hiro-presence",
+    "storage_bucket": "hiro-presence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53016877866:android:65658d5eb34d79659c5c53",
+        "android_client_info": {
+          "package_name": "com.example.hiro_presence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAadYibeHwXHK-5b95jcgn_x_boWpPX9m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
