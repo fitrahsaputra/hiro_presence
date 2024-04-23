@@ -1,3 +1,3 @@
-# hiro_presence
+# Hiro Presence
 
 Project for presence app on mobile.
